@@ -12,11 +12,11 @@ Welcome to "The Art of Prompt Engineering" repository! This project is a part of
 - **Program:** IBM Advanced AI
 
 ## Tech Stack
-
 - Python
-- HTML
-- CSS
-- JavaScript
+- TensorFlow, PyTorch
+- Jupyter Notebooks, GitHub
+- GPT-3.5 Turbo
+- NLP 
 
 ## Usage
 
